@@ -1,4 +1,5 @@
 ; asm arch=x86-64
+; syntaxe intel
 ; asm script to get a shell with execve()
 ; @PyR3Q
 
