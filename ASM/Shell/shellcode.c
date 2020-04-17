@@ -1,4 +1,5 @@
 /* @PyR3Q */
+/* gcc -fno-stack-protector -z execstack -o shellcode.c shellcode */
 
 #include <stdio.h>
 #include <string.h>
